@@ -1,14 +1,2 @@
-bin/.DS_Store
-bin/Debug/.DS_Store
-bin/Debug/net6.0/.DS_Store
-obj/.DS_Store
-obj/Debug/.DS_Store
-obj/Debug/net6.0/MvcMovie.csproj.AssemblyReference.cache
-obj/Debug/net6.0/project.razor.json
-obj/Debug/net6.0/MvcMovie.csproj.AssemblyReference.cache
-obj/Debug/net6.0/project.razor.json
-obj/Debug/net6.0/MvcMovie.csproj.AssemblyReference.cache
-obj/Debug/net6.0/MvcMovie.csproj.AssemblyReference.cache
-.DS_Store
-obj/Debug/net6.0/project.razor.json
-obj/Debug/net6.0/MvcMovie.csproj.AssemblyReference.cache
+/bin
+/obj
